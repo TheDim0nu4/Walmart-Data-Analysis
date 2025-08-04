@@ -37,8 +37,36 @@ The goal of data analysis and visualization in our case is to answer these quest
 10. How the unemployment rate in the region affects sales?
 11. How fuel price affects sales?
 
+The charts and their interpretation are available in the Jupyter Notebook.
 
 
+
+# Business Insights & Recommendations
+
+1. Holiday weeks drive significant sales growth. <br>
+
+    Before holidays, sales increase a lot. <br>
+    Recommendation: Increase advertising campaigns and discount offers before holidays to maximize profit. <br><br>
+
+2. Store performance varies widely. <br>
+
+    Top stores by sales bring many times more profit than the others. <br>
+    Recommendation: Study the practices of these stores and apply them to less profitable ones. <br><br>
+
+3. Fuel prices show a weak/moderate correlation with sales. <br>
+
+    Higher fuel prices can reduce store visits and therefore decrease sales in some weeks. <br>
+    Recommendation: Offer extra incentives (for example, free delivery) when fuel prices are high. <br><br>
+
+4. Sales show seasonal patterns. <br>
+
+    There is a big increase in sales at the end of the year in November and December. <br>
+    Recommendation: Plan to increase stock and staff during peak seasons. <br><br>
+
+5. Temperature can affect sales. <br>
+
+    At high temperatures, a decline in sales may occur. <br>
+    Recommendation: Introduce seasonal promotions or special offers during periods of high temperatures to maintain sales levels.
 
 
 
