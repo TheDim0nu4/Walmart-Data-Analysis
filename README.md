@@ -39,7 +39,7 @@ The goal of data analysis and visualization in our case is to answer these quest
 
 
 
-1. Which store had the highest sales? <br>
+## 1. Which store had the highest sales? <br>
 
 <img src="images/1.png"> <br>
 
@@ -47,7 +47,7 @@ This graph shows the total sales of each store. We see that store 20 sold the mo
 
 
 
-2. Which month has the highest sales? <br>
+## 2. Which month has the highest sales? <br>
 
 <img src="images/2.png"> <br>
 
@@ -55,7 +55,7 @@ This graph shows the average sales for each month. We see that December and Nove
 
 
 
-3. What is the yearly sales trend? <br>
+## 3. What is the yearly sales trend? <br>
 
 <img src="images/3.png"> <br>  
 
