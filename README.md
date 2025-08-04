@@ -70,6 +70,15 @@ The charts and their interpretation are available in the Jupyter Notebook.
 
 
 
+# Tools Used
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+
+
+
+This project was implemented in the summer of 2025. The project was carried out by Dmytro Skrypchenko
+
 
 
 
