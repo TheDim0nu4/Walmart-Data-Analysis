@@ -37,11 +37,13 @@ The goal of data analysis and visualization in our case is to answer these quest
 10. How the unemployment rate in the region affects sales?
 11. How fuel price affects sales?
 
-1. Which store had the highest sales?
+<br><br>
 
-(images/1.png)
+1. Which store had the highest sales? <br>
 
-This graph shows the total sales of each store. We see that store 20 sold the most, while stores 4, 14, 13, 2, 10, and 27 also have very high sales – more than 250 million. The store with the lowest sales is store 33, with less than 50 million. We can see a big difference in sales values of some stores, for example, between store 33 and store 20 it is more than 6 times. Later, we will look at how economic factors and weather affect these sales.
+<img src="images/1.png"> <br>
+
+This graph shows the total sales of each store. We see that store 20 sold the most, while stores 4, 14, 13, 2, 10, and 27 also have very high sales – more than 250 million. The store with the lowest sales is store 33, with less than 50 million. We can see a big difference in sales values of some stores, for example, between store 33 and store 20 it is more than 6 times. Later, we will look at how economic factors and weather affect these sales.  <br>
 
 
 Other charts and their interpretations are available in the Jupyter Notebook.
