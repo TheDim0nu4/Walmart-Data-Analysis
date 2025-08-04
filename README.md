@@ -49,7 +49,7 @@ This graph shows the total sales of each store. We see that store 20 sold the mo
 
 2. Which month has the highest sales? <br>
 
-<img src="images/7.png"> <br>
+<img src="images/2.png"> <br>
 
 This graph shows the average sales for each month. We see that December and November have the highest values, probably because these months have the biggest holidays like Thanksgiving, Christmas, and New Year. On later graphs, we will look at how holidays affect sales. The lowest sales are in January, probably because in the two months before people spent the most money. In the middle are the sales in June to September, and the sales in these months are almost the same.
 
