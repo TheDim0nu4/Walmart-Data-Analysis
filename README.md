@@ -17,3 +17,32 @@ Fuel_Price – fuel price in the region for that week<br>
 CPI – prevailing consumer price index in the region for that week<br>
 Unemployment – prevailing unemployment rate in the region for that week<br>
 
+Source: https://www.kaggle.com/datasets/yasserh/walmart-dataset
+
+
+
+# Data Analysis and Visualization
+
+The goal of data analysis and visualization in our case is to answer these questions:<br>
+
+1. Which store had the highest sales?
+2. Which month has the highest sales?
+3. What is the yearly sales trend?
+4. How sales values are spread out?
+5. How holidays affect sales?
+6. Top 10 weeks with the highest average profit.
+7. Which holiday week has the highest sales?
+8. How economic and weather factors in the region influence sales?
+9. How temperature affects sales?
+10. How the unemployment rate in the region affects sales?
+11. How fuel price affects sales?
+
+
+
+
+
+
+
+
+
+
