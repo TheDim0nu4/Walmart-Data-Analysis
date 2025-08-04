@@ -77,6 +77,8 @@ The charts and their interpretation are available in the Jupyter Notebook.
 
 
 
+# Author
+
 This project was implemented in the summer of 2025. The project was carried out by Dmytro Skrypchenko
 
 
