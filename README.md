@@ -35,15 +35,32 @@ The goal of data analysis and visualization in our case is to answer these quest
 8. How economic and weather factors in the region influence sales?
 9. How temperature affects sales?
 10. How the unemployment rate in the region affects sales?
-11. How fuel price affects sales?
+11. How fuel price affects sales? <br><br>
 
-<br><br>
+
 
 1. Which store had the highest sales? <br>
 
 <img src="images/1.png"> <br>
 
-This graph shows the total sales of each store. We see that store 20 sold the most, while stores 4, 14, 13, 2, 10, and 27 also have very high sales – more than 250 million. The store with the lowest sales is store 33, with less than 50 million. We can see a big difference in sales values of some stores, for example, between store 33 and store 20 it is more than 6 times. Later, we will look at how economic factors and weather affect these sales.  <br>
+This graph shows the total sales of each store. We see that store 20 sold the most, while stores 4, 14, 13, 2, 10, and 27 also have very high sales – more than 250 million. The store with the lowest sales is store 33, with less than 50 million. We can see a big difference in sales values of some stores, for example, between store 33 and store 20 it is more than 6 times. Later, we will look at how economic factors and weather affect these sales.  <br><br>
+
+
+
+2. Which month has the highest sales? <br>
+
+<img src="images/7.png"> <br>
+
+This graph shows the average sales for each month. We see that December and November have the highest values, probably because these months have the biggest holidays like Thanksgiving, Christmas, and New Year. On later graphs, we will look at how holidays affect sales. The lowest sales are in January, probably because in the two months before people spent the most money. In the middle are the sales in June to September, and the sales in these months are almost the same.
+
+
+
+3. What is the yearly sales trend? <br>
+
+<img src="images/3.png"> <br>  
+
+This graph shows how sales change during the year. We see, as in the previous graph, that sales grow a lot at the end of the year, drop at the beginning, and stay almost the same during the other weeks with some local highs and lows. <br><br>
+
 
 
 Other charts and their interpretations are available in the Jupyter Notebook.
