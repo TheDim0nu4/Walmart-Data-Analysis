@@ -1,9 +1,24 @@
-# 🛒 Walmart Sales Data Analysis
+# 🛒 Walmart Data Analysis
 This project is focused on analyzing yearly sales data from the Walmart store network. Walmart is an American chain of supermarkets and hypermarkets that offers a wide range of goods at low prices. The company has thousands of stores around the world. The goal of this project is to find seasonal sales trends, compare stores with each other, and find the impact of holidays, economic factors, and weather on sales.
 
 
 
-# Dataset 
+# 📁 Project Structure
+
+Walmart-Data-Analysis
+├── images/
+├── README.md
+├── Walmart.csv
+├── analisys.ipynb
+
+- images/ folder with images used in the README
+- README.md provides project overview and instructions.
+- Walmart.csv source data.
+- alalisys.ipynb jupyter notebooks with whole project. 
+
+
+
+# 📊 Dataset 
 The dataset used is a publicly available dataset from Kaggle called 'Walmart Dataset'. It contains historical sales data from 45 different Walmart stores for the period from 2010-02-05 to 2012-11-01. The dataset has 6435 rows and 8 columns. <br>
 
 The columns are:<br>
@@ -21,7 +36,7 @@ Source: https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
 
 
-# Data Analysis and Visualization
+# 📉 Data Analysis and Visualization
 
 The goal of data analysis and visualization in our case is to answer these questions:<br>
 
@@ -67,7 +82,7 @@ Other charts and their interpretations are available in the Jupyter Notebook.
 
 
 
-# Business Insights & Recommendations
+# 💡 Business Insights & Recommendations
 
 1. Holiday weeks drive significant sales growth. <br>
 
@@ -96,18 +111,33 @@ Other charts and their interpretations are available in the Jupyter Notebook.
 
 
 
-# Tools Used
+# 🛠️ Tools Used
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
 
 
-# Author
+## ⚡ Installation
 
-This project was implemented in the summer of 2025. The project was carried out by Dmytro Skrypchenko
+1. Clone the repository: <br>
+
+   `git clone https://github.com/TheDim0nu4/Walmart-Data-Analysis.git` <br>
+   `cd Walmart-Data-Analysis` <br>
+   
+2. Create a Python virtual environment (optional but recommended): <br>
+
+   `python -m venv venv` <br>
+
+3. Install the required dependencies: <br>
+
+   `pip install -r requirements.txt` <br>
 
 
+
+# ✍️ Author
+
+This project was implemented in the summer of 2025. The project was carried out by Dmytro Skrypchenkoю
 
 
 
