@@ -11,12 +11,14 @@ Walmart-Data-Analysis
 ├── README.md
 ├── Walmart.csv
 ├── analisys.ipynb
+├── requirements.txt
 ```
 
 - images/ folder with images used in the README
 - README.md provides project overview and instructions.
 - Walmart.csv source data.
-- alalisys.ipynb jupyter notebooks with whole project. 
+- alalisys.ipynb jupyter notebooks with whole project.
+- requirements.txt specifies Python dependencies.
 
 
 
