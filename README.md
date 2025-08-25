@@ -5,11 +5,13 @@ This project is focused on analyzing yearly sales data from the Walmart store ne
 
 # 📁 Project Structure
 
+```
 Walmart-Data-Analysis
 ├── images/
 ├── README.md
 ├── Walmart.csv
 ├── analisys.ipynb
+```
 
 - images/ folder with images used in the README
 - README.md provides project overview and instructions.
